@@ -1,0 +1,10 @@
+{
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/verification/page": "app/verification/page.js",
+  "/premium/page": "app/premium/page.js",
+  "/booking/[id]/page": "app/booking/[id]/page.js",
+  "/services/search/page": "app/services/search/page.js",
+  "/providers/[id]/page": "app/providers/[id]/page.js"
+}

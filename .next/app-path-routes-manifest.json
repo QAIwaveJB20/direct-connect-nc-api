@@ -1,0 +1,10 @@
+{
+  "/page": "/",
+  "/favicon.ico/route": "/favicon.ico",
+  "/dashboard/page": "/dashboard",
+  "/verification/page": "/verification",
+  "/premium/page": "/premium",
+  "/booking/[id]/page": "/booking/[id]",
+  "/services/search/page": "/services/search",
+  "/providers/[id]/page": "/providers/[id]"
+}
